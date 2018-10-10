@@ -1,3 +1,4 @@
+#It's a me!
 FROM maven
 ADD /src/ /test/src/
 ADD /pom.xml /test/pom.xml
